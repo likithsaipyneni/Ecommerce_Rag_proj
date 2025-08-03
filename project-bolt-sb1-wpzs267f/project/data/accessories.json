@@ -1,0 +1,97 @@
+[
+  {
+    "id": "tablet_001",
+    "title": "CreativePad Pro 12",
+    "category": "Tablets",
+    "price": 799.99,
+    "rating": 4.4,
+    "description": "Professional tablet designed for artists and creators. Comes with pressure-sensitive stylus and supports 4K video editing. Large 12.9-inch display with P3 wide color gamut for accurate color reproduction.",
+    "specs": {
+      "Display": "12.9-inch Liquid Retina",
+      "Processor": "M2 Chip",
+      "RAM": "8GB",
+      "Storage": "128GB",
+      "Stylus": "Included (4096 pressure levels)",
+      "Battery": "10 hours",
+      "Weight": "1.5 lbs"
+    },
+    "reviews": [
+      {"rating": 5, "text": "Perfect for digital art! The stylus is incredibly responsive and accurate."},
+      {"rating": 4, "text": "Great tablet but wish it came with more storage options at this price."},
+      {"rating": 4, "text": "Excellent for note-taking and creative work. Display is beautiful."},
+      {"rating": 5, "text": "Best tablet for artists. Pressure sensitivity is amazing and no lag."},
+      {"rating": 3, "text": "Good tablet but expensive for what you get. Stylus is nice though."}
+    ]
+  },
+  {
+    "id": "smartwatch_001",
+    "title": "FitTrack Elite",
+    "category": "Wearables",
+    "price": 349.99,
+    "rating": 4.2,
+    "description": "Advanced fitness smartwatch with comprehensive health monitoring, GPS tracking, and 7-day battery life. Water-resistant design perfect for swimmers and outdoor enthusiasts. Includes sleep tracking and stress monitoring.",
+    "specs": {
+      "Display": "1.4-inch AMOLED",
+      "Battery Life": "7 days",
+      "Water Resistance": "50m",
+      "Sensors": "Heart Rate, SpO2, GPS",
+      "Connectivity": "Bluetooth 5.0, WiFi",
+      "Compatibility": "iOS/Android",
+      "Weight": "45g"
+    },
+    "reviews": [
+      {"rating": 4, "text": "Great fitness tracking features and battery life is impressive. Sleep tracking is very accurate."},
+      {"rating": 4, "text": "Good smartwatch but app ecosystem could be better. Hardware is solid though."},
+      {"rating": 5, "text": "Love the long battery life and accurate GPS. Perfect for my marathon training."},
+      {"rating": 3, "text": "Decent watch but interface could be more intuitive. Health tracking is good."},
+      {"rating": 4, "text": "Solid fitness tracker with good build quality. Water resistance works as advertised."}
+    ]
+  },
+  {
+    "id": "camera_001",
+    "title": "PhotoMaster DSLR 5000",
+    "category": "Cameras",
+    "price": 1599.99,
+    "rating": 4.6,
+    "description": "Professional DSLR camera with 45MP full-frame sensor and advanced autofocus system. Perfect for wedding photographers and portrait professionals. Includes weather sealing and dual card slots for reliability.",
+    "specs": {
+      "Sensor": "45MP Full Frame",
+      "Autofocus": "693-point AF system",
+      "ISO Range": "100-51200",
+      "Video": "4K 60fps",
+      "Viewfinder": "Electronic EVF",
+      "Storage": "Dual SD cards",
+      "Weather Sealing": "Yes"
+    },
+    "reviews": [
+      {"rating": 5, "text": "Professional quality camera with incredible image quality. Autofocus is lightning fast."},
+      {"rating": 4, "text": "Excellent camera for professionals. A bit heavy but image quality justifies it."},
+      {"rating": 5, "text": "Best camera I've used for portrait photography. Colors are vibrant and natural."},
+      {"rating": 4, "text": "Great camera with professional features. Learning curve is steep but worth it."}
+    ]
+  },
+  {
+    "id": "speaker_001",
+    "title": "BassBoost Wireless Speaker",
+    "category": "Audio",
+    "price": 129.99,
+    "rating": 4.1,
+    "description": "Portable Bluetooth speaker with powerful bass and 360-degree sound. Perfect for outdoor parties and beach trips. IPX7 waterproof rating and 20-hour battery life ensure it keeps playing anywhere.",
+    "specs": {
+      "Power Output": "40W",
+      "Battery Life": "20 hours",
+      "Connectivity": "Bluetooth 5.0",
+      "Water Rating": "IPX7",
+      "Frequency Range": "60Hz - 20kHz",
+      "Weight": "2.1 lbs",
+      "Features": "360° Sound, Voice Assistant"
+    },
+    "reviews": [
+      {"rating": 4, "text": "Great sound quality for the price. Bass is punchy and gets plenty loud."},
+      {"rating": 4, "text": "Perfect for outdoor use. Waterproof rating is legit - survived pool party!"},
+      {"rating": 3, "text": "Good speaker but battery life isn't quite as advertised. Still decent value."},
+      {"rating": 5, "text": "Amazing speaker! Sound quality rivals much more expensive options."},
+      {"rating": 4, "text": "Solid build quality and great portability. Sound is clear and balanced."}
+    ]
+  }
+]

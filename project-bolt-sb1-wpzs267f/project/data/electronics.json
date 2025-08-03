@@ -1,0 +1,97 @@
+[
+  {
+    "id": "laptop_001",
+    "title": "TechPro UltraBook X1",
+    "category": "Laptops",
+    "price": 1299.99,
+    "rating": 4.5,
+    "description": "High-performance laptop with 16GB RAM, 512GB SSD, and Intel i7 processor. Perfect for professionals and content creators who need reliable performance for demanding tasks. Features a stunning 15.6-inch 4K display with excellent color accuracy.",
+    "specs": {
+      "Processor": "Intel Core i7-12700H",
+      "RAM": "16GB DDR4",
+      "Storage": "512GB NVMe SSD",
+      "Display": "15.6-inch 4K IPS",
+      "Graphics": "Intel Iris Xe",
+      "Battery": "8+ hours",
+      "Weight": "3.2 lbs"
+    },
+    "reviews": [
+      {"rating": 5, "text": "Excellent laptop! Fast, reliable, and great build quality. Perfect for my work as a developer."},
+      {"rating": 4, "text": "Good performance but battery life could be better for the price point."},
+      {"rating": 5, "text": "Amazing display quality and very fast SSD. Highly recommend for creative work."},
+      {"rating": 4, "text": "Solid laptop for productivity. Keyboard feels great and trackpad is responsive."},
+      {"rating": 3, "text": "Decent laptop but gets quite hot under heavy load. Fans can be noisy."}
+    ]
+  },
+  {
+    "id": "laptop_002",
+    "title": "GameForce RTX Elite",
+    "category": "Laptops",
+    "price": 1899.99,
+    "rating": 4.8,
+    "description": "Ultimate gaming laptop with RTX 4070, 32GB RAM, and liquid cooling system. Designed for serious gamers and VR enthusiasts. Features RGB keyboard and 165Hz refresh rate display for competitive gaming.",
+    "specs": {
+      "Processor": "AMD Ryzen 9 7900HX",
+      "RAM": "32GB DDR5",
+      "Storage": "1TB NVMe SSD",
+      "Display": "17.3-inch QHD 165Hz",
+      "Graphics": "NVIDIA RTX 4070",
+      "Cooling": "Liquid Metal",
+      "Weight": "5.1 lbs"
+    },
+    "reviews": [
+      {"rating": 5, "text": "Incredible gaming performance! Runs all modern games at max settings with excellent frame rates."},
+      {"rating": 5, "text": "Best gaming laptop I've owned. Cooling system works great and RGB looks amazing."},
+      {"rating": 4, "text": "Powerful machine but quite heavy to carry around. Perfect for desktop replacement."},
+      {"rating": 5, "text": "Outstanding build quality and performance. Worth every penny for serious gaming."}
+    ]
+  },
+  {
+    "id": "headphones_001",
+    "title": "SoundWave Pro Wireless",
+    "category": "Audio",
+    "price": 249.99,
+    "rating": 4.3,
+    "description": "Premium wireless headphones with active noise cancellation and 30-hour battery life. Delivers studio-quality sound with deep bass and crystal-clear highs. Comfortable for all-day wear with memory foam padding.",
+    "specs": {
+      "Driver Size": "40mm",
+      "Frequency Response": "20Hz - 20kHz",
+      "Battery Life": "30 hours",
+      "Charging": "USB-C fast charging",
+      "Connectivity": "Bluetooth 5.2",
+      "Weight": "280g",
+      "Features": "ANC, Touch Controls"
+    },
+    "reviews": [
+      {"rating": 5, "text": "Best headphones I've ever owned! Noise cancellation is incredible and sound quality is pristine."},
+      {"rating": 4, "text": "Great sound quality but touch controls can be finicky sometimes."},
+      {"rating": 4, "text": "Comfortable for long listening sessions, good value for money."},
+      {"rating": 5, "text": "Perfect for travel and work calls. ANC blocks out all office noise."},
+      {"rating": 3, "text": "Good headphones but had connectivity issues with older devices."}
+    ]
+  },
+  {
+    "id": "smartphone_001",
+    "title": "NovaTech Galaxy S Pro",
+    "category": "Smartphones",
+    "price": 899.99,
+    "rating": 4.7,
+    "description": "Flagship smartphone with triple camera system, 5G connectivity, and all-day battery life. Features a gorgeous 6.7-inch OLED display with 120Hz refresh rate. Built with premium materials and IP68 water resistance.",
+    "specs": {
+      "Display": "6.7-inch OLED 120Hz",
+      "Processor": "Snapdragon 8 Gen 2",
+      "RAM": "12GB",
+      "Storage": "256GB",
+      "Camera": "108MP Triple Camera",
+      "Battery": "5000mAh",
+      "OS": "Android 14"
+    },
+    "reviews": [
+      {"rating": 5, "text": "Fantastic phone! Camera quality is outstanding and performance is buttery smooth."},
+      {"rating": 5, "text": "Love the display and battery life. Easily lasts a full day of heavy usage."},
+      {"rating": 4, "text": "Great phone overall, though it's a bit pricey. Camera is definitely the highlight."},
+      {"rating": 5, "text": "Best smartphone I've used. Everything from gaming to photography works perfectly."},
+      {"rating": 4, "text": "Solid phone with great features. UI could be more intuitive but hardware is excellent."}
+    ]
+  }
+]

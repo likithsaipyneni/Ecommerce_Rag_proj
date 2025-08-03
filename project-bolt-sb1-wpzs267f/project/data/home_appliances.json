@@ -1,0 +1,74 @@
+[
+  {
+    "id": "vacuum_001",
+    "title": "CleanMax Pro Cordless",
+    "category": "Home Appliances",
+    "price": 299.99,
+    "rating": 4.3,
+    "description": "Powerful cordless vacuum with advanced filtration system and 60-minute runtime. Features LED headlights and converts to handheld for versatile cleaning. Perfect for pet owners with specialized pet hair attachment.",
+    "specs": {
+      "Type": "Cordless Stick Vacuum",
+      "Runtime": "60 minutes",
+      "Suction Power": "25kPa",
+      "Filtration": "HEPA",
+      "Dust Capacity": "0.6L",
+      "Weight": "5.5 lbs",
+      "Attachments": "5 included"
+    },
+    "reviews": [
+      {"rating": 5, "text": "Best cordless vacuum I've owned! Suction power is incredible and battery lasts long."},
+      {"rating": 4, "text": "Great for quick cleanups. Pet hair attachment works really well."},
+      {"rating": 4, "text": "Good vacuum overall but can be a bit heavy when used as handheld."},
+      {"rating": 5, "text": "Perfect for hardwood floors and carpets. LED lights are surprisingly useful."},
+      {"rating": 3, "text": "Decent vacuum but dust bin fills up quickly with pet hair."}
+    ]
+  },
+  {
+    "id": "coffee_001",
+    "title": "BrewMaster Espresso Machine",
+    "category": "Home Appliances",
+    "price": 599.99,
+    "rating": 4.5,
+    "description": "Semi-automatic espresso machine with professional-grade portafilter and steam wand. Built-in grinder with 15 grind settings for perfect extraction. Stainless steel construction with programmable shot volumes.",
+    "specs": {
+      "Type": "Semi-Automatic",
+      "Boiler": "Thermoblock",
+      "Pressure": "15 bar",
+      "Grinder": "Built-in burr grinder",
+      "Water Tank": "2L removable",
+      "Material": "Stainless Steel",
+      "Dimensions": "14x12x16 inches"
+    },
+    "reviews": [
+      {"rating": 5, "text": "Makes cafe-quality espresso at home! Grinder is consistent and steam wand works great."},
+      {"rating": 4, "text": "Excellent espresso machine for the price. Takes some practice to master."},
+      {"rating": 5, "text": "Love this machine! Coffee tastes as good as my local coffee shop."},
+      {"rating": 4, "text": "Great build quality and consistent results. Cleaning is straightforward."},
+      {"rating": 4, "text": "Good machine but grinder can be a bit loud in the morning."}
+    ]
+  },
+  {
+    "id": "air_purifier_001",
+    "title": "PureAir Max HEPA",
+    "category": "Home Appliances",
+    "price": 199.99,
+    "rating": 4.4,
+    "description": "Advanced air purifier with True HEPA filtration and smart sensors. Removes 99.97% of airborne particles including allergens, dust, and pet dander. Covers up to 800 sq ft with whisper-quiet operation.",
+    "specs": {
+      "Coverage": "800 sq ft",
+      "Filtration": "True HEPA + Carbon",
+      "CADR": "300 CFM",
+      "Noise Level": "< 35dB",
+      "Smart Features": "Air Quality Sensor",
+      "Filter Life": "12 months",
+      "Energy Star": "Certified"
+    },
+    "reviews": [
+      {"rating": 5, "text": "Noticeable improvement in air quality! My allergies have significantly reduced."},
+      {"rating": 4, "text": "Very quiet operation and effective filtration. Smart sensor is responsive."},
+      {"rating": 4, "text": "Good air purifier that covers large room well. Filter replacement is easy."},
+      {"rating": 5, "text": "Perfect for pet owners! Eliminates pet odors and dander effectively."},
+      {"rating": 3, "text": "Works well but replacement filters are a bit expensive."}
+    ]
+  }
+]

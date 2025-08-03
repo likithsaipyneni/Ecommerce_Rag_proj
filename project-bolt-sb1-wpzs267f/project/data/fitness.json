@@ -1,0 +1,50 @@
+[
+  {
+    "id": "treadmill_001",
+    "title": "RunPro Elite Treadmill",
+    "category": "Fitness Equipment",
+    "price": 1999.99,
+    "rating": 4.6,
+    "description": "Commercial-grade treadmill with 4.0 HP motor and 22-inch touchscreen. Features interactive training programs and incline up to 15%. Built for serious runners with cushioned deck to reduce joint impact.",
+    "specs": {
+      "Motor": "4.0 HP Continuous",
+      "Speed Range": "0.5 - 12 MPH",
+      "Incline": "0 - 15%",
+      "Running Surface": "22x60 inches",
+      "Display": "22-inch HD Touchscreen",
+      "Programs": "50+ built-in workouts",
+      "Max Weight": "400 lbs"
+    },
+    "reviews": [
+      {"rating": 5, "text": "Professional quality treadmill! Smooth operation and great training programs."},
+      {"rating": 4, "text": "Excellent treadmill but assembly was challenging. Performance is outstanding."},
+      {"rating": 5, "text": "Best home treadmill I've used. Motor is powerful and deck cushioning is perfect."},
+      {"rating": 4, "text": "Great machine for serious runners. Touchscreen interface is intuitive."},
+      {"rating": 4, "text": "Solid treadmill with good build quality. A bit expensive but worth it."}
+    ]
+  },
+  {
+    "id": "dumbbells_001",
+    "title": "FlexWeight Adjustable Set",
+    "category": "Fitness Equipment",
+    "price": 449.99,
+    "rating": 4.2,
+    "description": "Space-saving adjustable dumbbell set that replaces 15 pairs of weights. Quick-change dial system adjusts from 5 to 52.5 lbs per dumbbell. Compact design perfect for home gyms with limited space.",
+    "specs": {
+      "Weight Range": "5 - 52.5 lbs per dumbbell",
+      "Adjustment": "Dial system",
+      "Space Required": "24 x 14 inches",
+      "Material": "Cast Iron with Rubber coating",
+      "Total Weight": "105 lbs per dumbbell",
+      "Increments": "2.5 lb increments",
+      "Warranty": "2 years"
+    },
+    "reviews": [
+      {"rating": 4, "text": "Great space-saver! Easy to adjust weights and solid construction."},
+      {"rating": 4, "text": "Perfect for home workouts. Dial system works smoothly most of the time."},
+      {"rating": 3, "text": "Good concept but dial mechanism occasionally sticks. Still functional."},
+      {"rating": 5, "text": "Amazing product! Replaced my entire weight collection with these."},
+      {"rating": 4, "text": "Quality dumbbells that save tons of space. Worth the investment."}
+    ]
+  }
+]
